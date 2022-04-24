@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: rgb(255, 253, 253);
+}
+
+.card__row {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.cards {
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    margin: 1%;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: black;
+    width: 30.10%;
+    border-radius: 12px;
+    box-shadow: 0px 13px 10px -1px rgba(0, 0, 0, 0.1);
+    float: left;
+}
+
+.card:hover {
+    box-shadow: 0px 30px 18px -8px rgba(0, 0, 0, 0.1);
+    transform: scale(1.05, 1.05);
+}
+
+.card__img {
+    width: 100%;
+    height: 235px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.card__info {
+    background-color: black;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 16px 24px 24px 24px;
+    background-color: black;
+}
+
+.card__title {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    background-color: black;
+    text-transform: capitalize;
+}
+
+button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

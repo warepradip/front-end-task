@@ -1,0 +1,172 @@
+.subsection {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.section__1>button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.section__1>button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.section__2>button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.section__2>button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.section__3>button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.section__3>button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.section__4>button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.section__4>button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.section__5>button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.section__5>button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.section__6>button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.section__6>button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.section__7>button {
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    border-color: gainsboro;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.section__7>button:hover {
+    background-color: black;
+    transition: 0.7s;
+    color: aliceblue;
+}
+
+.section {
+    display: flex;
+    justify-content: space-evenly;
+}
